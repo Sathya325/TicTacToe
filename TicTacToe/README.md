@@ -29,17 +29,13 @@ This is a simple Tic-Tac-Toe game built using Java AWT (Abstract Window Toolkit)
 
 ## Technologies Used
 
-- **Java AWT**: For creating the graphical user interface.
-- **Java Swing**: For handling events and managing the game state.
-- **Grid Layout**: For organizing the grid layout of the game board.
+- **Java AWT**: For creating the graphical user interface and handling events.
+- **Grid Layout**: For organizing the grid layout of the game board, Grid Layout is used from the layout manager.
+
 
 ## Contributing
 
 Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
