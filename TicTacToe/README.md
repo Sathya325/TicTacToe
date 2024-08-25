@@ -15,31 +15,6 @@ This is a simple Tic-Tac-Toe game built using Java AWT (Abstract Window Toolkit)
 
 - Java Development Kit (JDK) installed on your machine.
 
-### Running the Game
-
-1. Clone this repository to your local machine:
-
-    ```bash
-    git clone https://github.com/yourusername/TicTacToe.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd TicTacToe
-    ```
-
-3. Compile the Java files:
-
-    ```bash
-    javac TicTacToe.java
-    ```
-
-4. Run the compiled program:
-
-    ```bash
-    java TicTacToe
-    ```
 
 ### How to Play
 
